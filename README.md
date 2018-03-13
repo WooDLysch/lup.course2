@@ -1,2 +1,1 @@
-"# lup.course2" 
-"# lup.course2" 
+"# java_course2" 
